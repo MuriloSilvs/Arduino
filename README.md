@@ -1,2 +1,2 @@
-# Projetos Arduino
+# Arduino
 Repositório para projetos com Arduino
